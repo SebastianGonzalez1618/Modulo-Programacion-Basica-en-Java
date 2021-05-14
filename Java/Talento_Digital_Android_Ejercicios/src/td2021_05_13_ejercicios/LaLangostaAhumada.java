@@ -9,7 +9,7 @@ el costo de un platillo por persona es de $9500,
 pero si el número de personas es mayor a 200 pero menor o igual a 300,
 el costo es de $8500.
 Para más de 300 personas el costo por platillo es de $7500.
-Se requiere un algoritmo y diagrama de flujo que ayude a determinar
+Se requiere un programa que ayude a determinar
 el presupuesto que se debe presentar a las personas
 que deseen realizar un evento.
 */
